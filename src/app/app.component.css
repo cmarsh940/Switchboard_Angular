@@ -1,11 +1,14 @@
+/*//-.-. .- -- . .-. --- -. / -- .- .-. ... .... .- .-.. .-..//*/
 div.container {
   width: 800px;
   min-height: 200px;
   margin: auto;
 }
+/*//-.-. .- -- . .-. --- -. / -- .- .-. ... .... .- .-.. .-..//*/
 div.row {
   margin: 0 auto;
 }
+/*//-.-. .- -- . .-. --- -. / -- .- .-. ... .... .- .-.. .-..//*/
 div.switch {
   display: inline-block;
   padding:10px;
@@ -13,9 +16,11 @@ div.switch {
   margin: 1px;
   border-radius: 10%;
 }
+/*//-.-. .- -- . .-. --- -. / -- .- .-. ... .... .- .-.. .-..//*/
 div.switch:hover{
   background-color: darkgrey;
 }
+/*//-.-. .- -- . .-. --- -. / -- .- .-. ... .... .- .-.. .-..//*/
 button {
   margin: 5px;
   width: 40px;
@@ -24,6 +29,7 @@ button {
   border-style: none;
   border-radius: 10%;
 }
+/*//-.-. .- -- . .-. --- -. / -- .- .-. ... .... .- .-.. .-..//*/
 button.on {
   background-color: lawngreen;
 }
